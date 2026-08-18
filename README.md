@@ -77,15 +77,6 @@ Each repo speaks for itself. Nothing here is a proof of concept looking for a ta
 
 ---
 
-### `operator@ischyr:~$ cat ~/.opsec`
-
-```console
-telemetry .......... minimised
-beacon interval .... irregular
-attribution ........ on request
-noise .............. avoided, on principle
-```
-
 <!--
   Handles worth adding here once you want them public: drop them in and delete this comment.
   Same chip style as the row at the top, so they sit with it rather than beside it.
